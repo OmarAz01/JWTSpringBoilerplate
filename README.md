@@ -2,7 +2,7 @@
 
 ## Description  
   
-This is a boilerplate for SpringBoot applications. Includes a basic JWT setup, MySQL integration, and lombok.  
+This is a boilerplate for SpringBoot applications. It's used to quickly get setup for a new application that requires JWT. Includes a basic JWT setup, MySQL integration, and lombok.  
   
 Available endpoints are:  
   
