@@ -14,3 +14,11 @@ Available endpoints are:
   - Used to validate the token sent in the header returns an updated token or asks the user to login again if token is expired
 - /api/auth/logout
   - Used to logout the user, deletes JWT
+  
+## How To Setup  
+  
+Step 1: Fork the repository  
+  
+Step 2: Change the properties file to match your setup  
+  
+Step 3: Build and run the application
